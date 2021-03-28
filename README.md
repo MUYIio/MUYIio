@@ -1,5 +1,3 @@
-![MUYIio's GitHub stats](https://github-readme-stats.vercel.app/api?username=MUYIio&show_icons=true&theme=radical)
-
 <!--
 **MUYIio/MUYIio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=MUYIio&show_icons=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=MUYIio&show_icons=true&theme=radical">
 
-[![BLOG URL](https://img.shields.io/twitter/url?color=%23FBBC05&label=BLOG&logo=hexo&logoColor=white&style=flat-square&url=https%3A%2F%2Ffeezxe.gitee.io/%2F)
+
 [![Zhihu URL](https://img.shields.io/twitter/url?color=%230077E6&label=Zhihu&logo=zhihu&logoColor=white&style=flat-square&url=https%3A%2F%2Fwww.zhihu.com%2Fpeople%2Fmuyiio)](https://www.zhihu.com/people/muyiio)
 
 ### 👋嗨！我是MUYIio
@@ -24,7 +22,7 @@ Here are some ideas to get you started:
 - 🌱 正在学习：C++/Linux/algorithms...
 - 📫 邮箱：feezxe@Gmail.com
 - ❤️ 爱好：Skateboard、Basketball、Coding...
-
+- 🌍 博客：[Shawlon's Blog](https://feezxe.gitee.io/)
 
 
 <!-- https://github.com/kautukkundan/Awesome-Profile-README-templates -->
