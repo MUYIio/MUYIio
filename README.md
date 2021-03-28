@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![MUYIio's GitHub stats](https://github-readme-stats.vercel.app/api?username=MUYIio&show_icons=true&theme=radical)
+                                                                 ![MUYIio's GitHub stats](https://github-readme-stats.vercel.app/api?username=MUYIio&show_icons=true&theme=radical)
 
 ### 👋嗨！我是MUYIio
 - 👉 关于我：一名正在提高的developer
