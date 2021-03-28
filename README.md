@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 -->
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=MUYIio&show_icons=true&theme=radical">
 
-
-[![Zhihu URL](https://img.shields.io/twitter/url?color=%230077E6&label=Zhihu&logo=zhihu&logoColor=white&style=flat-square&url=https%3A%2F%2Fwww.zhihu.com%2Fpeople%2Fmuyiio)](https://www.zhihu.com/people/muyiio)
-
 ### 👋嗨！我是MUYIio
 - 👉 关于我：一名正在提高的developer
 - 🌱 正在学习：C++/Linux/algorithms...
