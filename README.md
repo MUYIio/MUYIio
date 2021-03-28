@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 - 👉 关于我：一名有待提高的developer
 - 🌱 正在学习：C++/Linux/algorithms...
 - 📫 邮箱：feezxe@Gmail.com
-- ❤️ 爱好：滑板、篮球、嗯。瞎想...
+- ❤️ 爱好：Skateboard、Basketball、Coding...
 
-[![BLOG URL](https://img.shields.io/twitter/url?color=%23FBBC05&label=BLOG&logo=hexo&logoColor=white&style=flat-square&url=https%3A%2F%2Fhttps://feezxe.gitee.io/%2F)
+[![BLOG URL](https://img.shields.io/twitter/url?color=%23FBBC05&label=BLOG&logo=hexo&logoColor=white&style=flat-square&url=https%3A%2F%2Ffeezxe.gitee.io/%2F)
 [![Zhihu URL](https://img.shields.io/twitter/url?color=%230077E6&label=Zhihu&logo=zhihu&logoColor=white&style=flat-square&url=https%3A%2F%2Fwww.zhihu.com%2Fpeople%2Fmuyiio)](https://www.zhihu.com/people/muyiio)
 <!-- https://github.com/kautukkundan/Awesome-Profile-README-templates -->
