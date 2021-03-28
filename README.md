@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=MUYIio&show_icons=true">
+
 [![BLOG URL](https://img.shields.io/twitter/url?color=%23FBBC05&label=BLOG&logo=hexo&logoColor=white&style=flat-square&url=https%3A%2F%2Ffeezxe.gitee.io/%2F)
 [![Zhihu URL](https://img.shields.io/twitter/url?color=%230077E6&label=Zhihu&logo=zhihu&logoColor=white&style=flat-square&url=https%3A%2F%2Fwww.zhihu.com%2Fpeople%2Fmuyiio)](https://www.zhihu.com/people/muyiio)
 
