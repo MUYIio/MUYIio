@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=MUYIio&show_icons=true&theme=radical">
 
 ### 👋嗨！我是MUYIio
-- 👉 关于我：一名正在提高的developer
+- 👉 关于我：一名在校生
 - 🌱 正在学习：C++/Linux/algorithms...
 - 📫 邮箱：feezxe@Gmail.com
 - ❤️ 爱好：Skateboard、Basketball、Coding...
