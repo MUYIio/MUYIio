@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 正在学习：C++/Linux/algorithms...
 - 📫 邮箱：feezxe@Gmail.com
 - ❤️ 爱好：Skateboard、Basketball、Coding...
-- 🌍 博客：[Shawlon's Blog](https://feezxe.gitee.io/)
+- 🌍 博客：[Shawlon's Blog](https://yshawlon.cn/)
 
 
 <!-- https://github.com/kautukkundan/Awesome-Profile-README-templates -->
