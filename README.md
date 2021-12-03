@@ -15,11 +15,14 @@ Here are some ideas to get you started:
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=MUYIio&show_icons=true&theme=radical">
 
 ### 👋嗨！我是MUYIio
-- 👉 关于我：一名在校生
+
+- 👉 关于我：大学生
 - 🌱 正在学习：Cpp/OS/Algorithms...
 - 📫 邮箱：feezxe@Gmail.com
-- ❤️ 爱好：Basketball or Coding...
+- ❤️ 爱好：徒步、有趣的代码
 - 🌍 博客：[Shawlon's Blog](https://yshawlon.cn/)
 
 
-<!-- https://github.com/kautukkundan/Awesome-Profile-README-templates -->
+
+<img align="center" src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/dino.gif" width="70%"/>
+
