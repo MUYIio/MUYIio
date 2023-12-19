@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 -->
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=MUYIio&show_icons=true&theme=radical">
 
-### 👋嗨！我是MUYIio
+### 👋hello！i'm MUYIio
 
-- 👉 关于我：大学生
-- 🌱 正在学习：Cpp/OS/Algorithms...
-- 📫 邮箱：feezxe@Gmail.com
-- ❤️ 爱好：徒步、有趣的代码
-- 🌍 博客：[Shawlon's Blog](https://yshawlon.cn/)
+- 👉 about me：devotion for computers
+- 🌱 learning：Cpp/OS/Algorithms...
+- 📫 email：feezxe@Gmail.com
+- ❤️ interest：hiking，coding…
+- 🌍 blog：[Shawlon's Blog](https://muyiio.github.io)
 
 
 
